@@ -1,0 +1,48 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+.hero{
+    background-image: url(images/fossil.jpg);
+    background-size:cover;
+    background-position: center top;
+    text-align: center;
+    font-family: ;
+}
+.visit{
+    margin-bottom: 20px;
+}
+.enjoy{
+    margin-top:0px;
+}
+body {
+    margin: 150px 12px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background:linear-gradient(black,white);
+    color:black;
+}
+img {
+    width: 100px;
+    margin:0 10px;
+    border:5px solid white;
+    border-radius: 80px;
+    
+
+}
+.top{
+    margin-top:80px;
+    margin-bottom: 80px;
+}
+.activities{
+    margin: 0px 0;
+    display: flex;
+    justify-content:center ;
+    align-items:space-around;
+    text-align: center;
+}
